@@ -8,11 +8,6 @@ Since 2002, I have engineered software where architectural discipline meets real
 
 My engineering foundation was built in high-consequence environments, co-designing banking data warehousing engines processing hundreds of millions of records overnight with minimal errors. That standard of rigor carried directly into executive engineering leadership: architecting multi-tenant cloud platforms across AWS and Azure, automating complex integrations across CRM and ERP ecosystems, and deploying high-throughput .NET 9/10 and SQL backends paired with real-time Vertex AI streaming, dynamic prompt governance, and voice synthesis for novel media generation platforms.
 
-### Projects
-
-- **FlosForge**: a suite of 16 privacy-first applications for macOS, Windows, Linux, Android and WordPress: https://flosforge.eu
-- **Open source here**: WinLevers (Windows app permissions) and Phone Checker for Android (security and privacy checks over ADB)
-
 ### Core Specializations
 
 - **Architecture**: Distributed Systems, Clean Architecture, Multitenancy, AWS Well-Architected Framework
