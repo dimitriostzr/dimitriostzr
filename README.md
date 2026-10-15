@@ -2,7 +2,7 @@
 
 Principal Product Engineer & Software Architect, based in Athens, Greece.
 
-I take a product from idea to production in weeks, as both architect and builder, with 24 years of experience behind the decisions.
+I take a product from idea to production in weeks, as both architect and builder, with 24 years of experience in enterprise software development and SaaS systems.
 
 Since 2002, I have engineered software where architectural discipline meets real-world consequence. My background spans the full technical spectrum: from low-level operating system internals and high-throughput financial ETL pipelines to scalable cloud infrastructure, multi-tenant SaaS backends, and modern Generative AI orchestration. Across every tier, my focus is on building resilient, deterministic systems engineered for longevity, security, and operational reliability.
 
