@@ -15,6 +15,4 @@ My engineering foundation was built in high-consequence environments, co-designi
 - **Client & Native**: React 19, Electron, TypeScript, WinUI 3, WPF, Swift 6, Kotlin
 - **Security & AI**: LLM Orchestration, Generative AI, DevSecOps, Autonomous Agent Workflows, Cryptography
 
-Outside of distributed systems architecture, I write English literary science fiction novels and practice Krav Maga. I also enjoy cosmology and popular science.
-
-I am available for remote B2B contracting, fractional systems architecture, and full-stack delivery with companies across North America (US & Canada), Europe, and worldwide. Reach out via [LinkedIn](https://www.linkedin.com/in/dimitriostz) or via email. Please feel free to ask me for a detailed career dossier for more details on my projects and let's connect.
+Reach out via [LinkedIn](https://www.linkedin.com/in/dimitriostz) or via email. 
